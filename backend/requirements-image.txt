@@ -1,0 +1,4 @@
+# Optional real CLIP inference. Install AFTER requirements.txt.
+# CLIP weights download from Hugging Face on the first image request.
+transformers>=4.44,<5
+torch>=2.2
